@@ -1,0 +1,1 @@
+document.getElementById("home-page-mobile").style.color = "blue";
